@@ -1,6 +1,6 @@
 // Package ginzap provides log handling using zap package.
 // Code structure based on ginrus package.
-package ginzap
+package ginzap2
 
 import (
 	"net"
